@@ -1,0 +1,7 @@
+{
+    "port": 5000,
+    "database_address": "",
+    "database_user": "",
+    "database_password": "",
+    "database_name": ""
+}
